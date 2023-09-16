@@ -6,9 +6,9 @@ This is a basic python Hello world file.
 
 My purpose for creating this is to create a virtual environment workspace with Github, VSCode, and the languages and software I will be learning. 
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+Demo Video
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/3wuZAAh7fFI)
 
 # Development Environment
 
